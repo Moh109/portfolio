@@ -71,7 +71,7 @@
   }
   
   .skill-icon:hover img {
-    @apply scale-115;
+    @apply scale-110;
   }
   
   .skill-label {
